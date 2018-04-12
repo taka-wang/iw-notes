@@ -3,8 +3,15 @@
 ## General
 
 - [Linux Networking Explained, 2016, Toronto](https://goo.gl/irrnwa)
+
 - ip 與 ifconfig 指令比較 -> [ifconfig vs ip](https://p5r.uk/blog/2010/ifconfig-ip-comparison.html)
+
 - 一些簡易的netns操作 -> [Introducing Linux Network Namespaces](https://blog.scottlowe.org/2013/09/04/introducing-linux-network-namespaces/)
+
+- [An Introduction to Networking Terminology, Interfaces, and Protocols](https://www.digitalocean.com/community/tutorials/an-introduction-to-networking-terminology-interfaces-and-protocols)
+
+- [Understanding IP Addresses, Subnets, and CIDR Notation for Networking](https://www.digitalocean.com/community/tutorials/understanding-ip-addresses-subnets-and-cidr-notation-for-networking)
+
 
 ## Terminology
 

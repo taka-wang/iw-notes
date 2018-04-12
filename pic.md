@@ -40,6 +40,12 @@
 
 - [My Raspberry Pi Kubernetes Cluster](https://chrisshort.net/my-raspberry-pi-kubernetes-cluster/)
 
+### Ceph
+
+- [Using Existing Ceph Cluster for Kubernetes Persistent Storage](https://akomljen.com/using-existing-ceph-cluster-for-kubernetes-persistent-storage/)
+
+- [Ceph on a Raspberry Pi](https://www.linkedin.com/pulse/ceph-raspberry-pi-rahul-vijayan)
+
 ## Others
 
 - [Monitoring your home network with InfluxDB on Raspberry Pi with Docker](https://medium.com/@petey5000/monitoring-your-home-network-with-influxdb-on-raspberry-pi-with-docker-78a23559ffea) :thumbsup:
