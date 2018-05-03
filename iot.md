@@ -32,3 +32,36 @@
 - [GE edge computing](https://www.ge.com/digital/blog/what-edge-computing)
 - [Hitachi develops AI and wearables to assist manufacturing workers](https://thestack.com/iot/2017/03/08/hitachi-develops-ai-and-wearables-to-assist-manufacturing-workers/)
 
+## Azure IoT Edge
+
+- [Introducing the Azure IoT Gateway SDK Beta](https://azure.microsoft.com/en-us/blog/introducing-the-azure-iot-gateway-sdk-beta/)
+
+- [Understand the Azure IoT Edge runtime and its architecture - preview](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-runtime)
+
+- [May 10, 2017, Microsoft Azure IoT Edge – Extending cloud intelligence to edge devices](https://blogs.microsoft.com/iot/2017/05/10/microsoft-azure-iot-edge-extending-cloud-intelligence-to-edge-devices/)
+	- In early IoT solutions, most IoT devices simply sent telemetry to and received commands from the cloud.
+	- Enabling intelligence on IoT edge devices means enabling analytics and insights to happen closer to the source of the data, saving customers money and simplifying their solutions.
+	- While the benefits of edge intelligence are immense, the challenge it poses is how to develop, deploy and manage this cloud intelligence for IoT devices in a secure and scalable way.
+	- Services:
+		- Azure Machine Learning
+		- Azure Stream Analytics - serverless scalable complex event processing. The job also specifies a transformation query that defines how to look for data, patterns, or relationships. 
+		- Azure Functions
+		- Artificial Intelligence, including Cognitive Services
+		- Azure IoT Hub communication and device management features
+- [How an IoT Edge device can be used as a gateway - preview](https://docs.microsoft.com/en-us/azure/iot-edge/iot-edge-as-gateway)
+- [Azure IoT Edge](https://docs.microsoft.com/en-us/azure/iot-edge/)
+- [Choose the right IoT Hub tier for your solution](https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-scaling)
+- [November 21, 2016. Connect your things with the Azure IoT Gateway SDK](https://azure.microsoft.com/en-us/blog/azure-iot-gateway-sdk-general-availability-release/)
+- [Azure Stream Analytics](https://azure.microsoft.com/en-us/services/stream-analytics/)
+
+
+---
+
+- [Getting Started with AWS IoT](https://www.slideshare.net/AmazonWebServices/getting-started-with-aws-iot-64856623)
+- [Connect Your IoT Devices to Amazon Web Services* IoT Platform](https://software.intel.com/en-us/articles/using-amazon-web-services-aws-iot-with-intel-iot-devices-and-gateways)
+
+- [Amazon FreeRTOS architecture](https://docs.aws.amazon.com/freertos/latest/userguide/freertos-architecture.html)
+
+- [AWS Greengrass Technical Deep Dive with Demo](https://www.slideshare.net/AmazonWebServices/aws-greengrass-technical-deep-dive-with-demo)
+
+- [IoT offer comparison: AWS vs Azure](http://vunvulearadu.blogspot.tw/2017/08/iot-offer-comparison-aws-vs-azure.html)

@@ -13,3 +13,6 @@
 ## Information
 
 - [Mirantis launches its new OpenStack and Kubernetes cloud platform](https://techcrunch.com/2017/04/19/mirantis-launches-its-new-openstack-and-kubernetes-cloud-platform/)
+
+Serverless Edge-to-Cloud computing: the open source way
+https://medium.com/openwhisk/serverless-edge-to-cloud-computing-the-open-source-way-28ea33f60bf6

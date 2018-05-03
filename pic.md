@@ -4,6 +4,8 @@
 
 ### Basic
 
+- [Change hostname](https://thepihut.com/blogs/raspberry-pi-tutorials/19668676-renaming-your-raspberry-pi-the-hostname)
+
 - [Raspbian Stretch: Setting a static IP](https://www.raspberrypi.org/forums/viewtopic.php?t=191140)
 
 - [Equip Raspberry Pi with a static IP address](https://www.1and1.com/digitalguide/server/configuration/provide-raspberry-pie-with-a-static-ip-address/)
